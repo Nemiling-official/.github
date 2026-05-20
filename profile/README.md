@@ -18,15 +18,19 @@
 ## Полезные ссылки
 
 - 🌐 **Сайт:** [nemiling.info](https://nemiling.info)
-- 📚 **Документация:** [docs](https://github.com/Nemiling/docs)
-- 💼 **Кейсы клиентов:** [case-studies](https://github.com/Nemiling/case-studies)
+- 📚 **Документация:** [docs](https://github.com/Nemiling-official/docs)
+- 💼 **Кейсы клиентов:** [case-studies](https://github.com/Nemiling-official/case-studies)
 - 🤖 **Бот:** [@Nemilin_bot](https://t.me/Nemilin_bot)
 
 ## Контакты
 
-- Сайт: https://nemiling.info
-- Поддержка: support@nemiling.info
-- Telegram: @Nemilin_bot
+- 🌐 **Сайт:** https://nemiling.info
+- 💬 **Telegram-канал:** [@nemilingofficial](https://t.me/nemilingofficial)
+- 🤖 **Бот:** [@Nemilin_bot](https://t.me/Nemilin_bot)
+- 📺 **YouTube:** [@nemilinbot829](https://www.youtube.com/@nemilinbot829)
+- 📱 **VK:** [vk.com/nemiling](https://vk.com/nemiling)
+- 📰 **Дзен:** [dzen.ru/nemilin_bot](https://dzen.ru/nemilin_bot)
+- 📧 **Поддержка:** nemilinpro@mail.ru
 
 ---
 
