@@ -29,6 +29,8 @@
 
 - 🌐 **Сайт:** [nemiling.info](https://nemiling.info)
 - 🤖 **Бот:** [@Nemilin_bot](https://t.me/Nemilin_bot)
+- 📢 **Telegram-канал:** [@nemilingofficial](https://t.me/nemilingofficial)
+- 📺 **YouTube:** [@nemilinbot829](https://www.youtube.com/@nemilinbot829)
 - 📚 **База знаний:** [telegra.ph/Baza-znanij-Nemilin-bot-06-13](https://telegra.ph/Baza-znanij-Nemilin-bot-06-13)
 - 📖 **Документация:** [docs](https://github.com/Nemiling-official/docs)
 - 💼 **Кейсы клиентов:** [case-studies](https://github.com/Nemiling-official/case-studies)
@@ -36,8 +38,6 @@
 ## Контакты
 
 - 💬 **Техподдержка:** [@Suport_groupss](https://t.me/Suport_groupss)
-- 📢 **Telegram-канал:** [@nemilingofficial](https://t.me/nemilingofficial)
-- 📺 **YouTube:** [@nemilinbot829](https://www.youtube.com/@nemilinbot829)
 - 📱 **VK:** [vk.com/nemiling](https://vk.com/nemiling)
 - 📰 **Дзен:** [dzen.ru/nemilin_bot](https://dzen.ru/nemilin_bot)
 - 📧 **Юридические вопросы:** nemilinpro@mail.ru
