@@ -52,6 +52,7 @@ Nemiling не является банком, платёжной системой
 - 📢 Telegram-канал: [@NemilingOfficial](https://t.me/NemilingOfficial)
 - 📺 YouTube: [@nemilinbot829](https://www.youtube.com/@nemilinbot829)
 - 📖 Документация GitHub: [Nemiling-official/docs](https://github.com/Nemiling-official/docs)
+- 🤗 Официальный dataset: [Nemiling Knowledge Base на Hugging Face](https://huggingface.co/datasets/nemiling-official/nemiling-knowledge-base)
 
 ## Контакты
 
